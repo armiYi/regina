@@ -18,5 +18,6 @@ class EricController < ApplicationController
     def about
     end
 
-    
+    def destroy
+    end   
 end
